@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181707723036",
+    "project_id": "sign-form-9cb66",
+    "storage_bucket": "sign-form-9cb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181707723036:android:903288a2bedf66c777aad9",
+        "android_client_info": {
+          "package_name": "com.example.flyflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181707723036-pceodn896et782kkngc8ukf73fme1c44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWI2AOiyT_VQ6kcQj77TR-qzxnZ94gAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181707723036-pceodn896et782kkngc8ukf73fme1c44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
